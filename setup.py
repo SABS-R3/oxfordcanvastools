@@ -4,7 +4,7 @@ import setuptools
 setuptools.setup(
     # Module name (lowercase)
     name='oxfordcanvastools',
-    version='1.0',
+    version='1.1',
 
     # Description
     description='A minimal set of tools for interacting with the Canvas API at Oxford',
